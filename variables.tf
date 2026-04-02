@@ -1,7 +1,7 @@
 variable "s3_bucket_name" {
   type        = string
   description = "The name of the S3 bucket"
-  default     = "flextrack-frontend-prod-01"
+  default     = "flextrack.nandaxsr.xyz"
 }
 
 ####### profile to authenticate to aws #######
